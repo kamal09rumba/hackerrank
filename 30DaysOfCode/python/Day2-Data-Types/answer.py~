@@ -1,0 +1,11 @@
+#!/usr/bin/python
+i = 4
+d = 4.0
+s = 'HackerRank'
+a=12
+b=4.0
+c=' is the best place to learn and practice coding!'
+a=int(raw_input())
+b=float(raw_input())
+c=str(raw_input())
+
