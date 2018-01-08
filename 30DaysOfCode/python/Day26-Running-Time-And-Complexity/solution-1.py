@@ -1,7 +1,6 @@
 #!/usr/bin/python
-
 import sys
-
+# checks prime number or not
 class CheckPrimeNumber:
 	def checkPrime(self,num):
 	    for i in range(2,num):
