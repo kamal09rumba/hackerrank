@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 import sys
-
+## use Primality test to find prime number 
 def checkPrime(num):
 	if num == 1:
 			return False
