@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 import sys
 ## use Primality test to find prime number 
 def checkPrime(num):
