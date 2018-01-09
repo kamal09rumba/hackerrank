@@ -1,0 +1,8 @@
+#!/usr/bin/python
+
+import sys
+# refer discussion board for further detail
+T = int(input().strip())
+for _ in range(T):
+    n , k = map(int , input().split())
+    print(k-1 if ((k-1) | k) <= n else k-2)
